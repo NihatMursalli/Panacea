@@ -1,0 +1,81 @@
+drug_id,generic_name,brand_name,dosage_form,strength,package_size,manufacturer,price_usd,category,is_otc,atc_code,image_url,stock_qty,reorder_level,weight_g,length_cm,width_cm,height_cm,expiry_date,avg_rating,num_reviews
+1,Umeko,Lehner LLC,cream,50mg,30 pcs,Lehner LLC,121.13,antidepressant,True,DYX5K7,http://placeimg.com/640/480/any,172,124,490,12.3,11.2,4.2,2026-01-04,4.3,357
+2,Ebuhi,Little PLC,tablet,100mg,60 pcs,Little PLC,156.68,analgesic,True,PRH9G4,http://placeimg.com/640/480/any,47,110,243,11.6,9.3,3.1,2026-06-11,4.5,63
+3,Roqo,Halvorson PLC,drop,20mg,100 pcs,Halvorson PLC,20.43,antidiabetic,False,UPI3J8,http://placeimg.com/640/480/any,243,109,506,8.5,12.1,3.7,2026-05-15,3.8,196
+4,Mokebt,McDermott,tablet,10mg,20 pcs,McDermott,152.21,antibiotic,True,KEQ1Y3,http://placeimg.com/640/480/any,387,82,377,6.4,7.8,4.7,2025-12-30,4.9,475
+5,Nucuz,Walsh PLC,inhaler,5mg,10 pcs,Walsh PLC,60.40,antihypertensive,False,RCK4H9,http://placeimg.com/640/480/any,395,97,253,14.9,14.3,2.5,2025-11-14,3.2,371
+6,Tizhin,Kemmer and Sons,cream,20mg,30 pcs,Kemmer and Sons,128.00,analgesic,True,AXL2T2,http://placeimg.com/640/480/any,32,176,364,8.7,11.4,1.3,2026-04-07,3.4,36
+7,Sobmu,Schimmel LLC,capsule,50mg,100 pcs,Schimmel LLC,153.14,antidepressant,True,ZOI9C1,http://placeimg.com/640/480/any,268,169,423,13.1,8.5,1.1,2026-02-26,4.8,457
+8,Oluxi,Spencer LLC,syrup,100mg,30 pcs,Spencer LLC,151.31,antihypertensive,False,RTF7D5,http://placeimg.com/640/480/any,203,145,231,14.8,14.7,3.8,2026-01-09,4.0,179
+9,Wixqa,Bosco PLC,capsule,5mg,20 pcs,Bosco PLC,25.15,antibiotic,True,HPV3V2,http://placeimg.com/640/480/any,397,166,356,5.2,12.0,4.3,2025-10-25,3.9,450
+10,Edqiy,Hoeger Inc,drop,20mg,60 pcs,Hoeger Inc,167.59,antidiabetic,False,YPD8S6,http://placeimg.com/640/480/any,92,103,374,14.9,9.1,3.3,2026-07-14,3.6,326
+11,Gijmo,Wisozk LLC,capsule,100mg,30 pcs,Wisozk LLC,147.45,analgesic,True,TVK2P7,http://placeimg.com/640/480/any,338,167,407,10.1,8.6,2.7,2026-04-13,4.7,291
+12,Qeja,Koss Group,tablet,5mg,100 pcs,Koss Group,159.28,antidepressant,False,KYA6N1,http://placeimg.com/640/480/any,488,163,257,14.0,7.5,1.4,2026-08-05,4.2,432
+13,Vozli,Bartell LLC,cream,50mg,60 pcs,Bartell LLC,10.27,antihypertensive,True,LGJ5W3,http://placeimg.com/640/480/any,244,167,166,7.9,12.9,3.5,2025-10-10,3.5,126
+14,Naqve,Ziemann and Sons,tablet,20mg,20 pcs,Ziemann and Sons,28.06,analgesic,True,DBF7F9,http://placeimg.com/640/480/any,259,60,254,9.8,8.1,4.1,2025-08-23,4.6,98
+15,Puvci,Hayes Inc,capsule,100mg,30 pcs,Hayes Inc,189.30,antibiotic,False,ZJE2L4,http://placeimg.com/640/480/any,43,176,446,8.9,13.4,3.2,2025-07-02,4.1,354
+16,Qywvi,Ondricka LLC,inhaler,10mg,10 pcs,Ondricka LLC,130.72,antidiabetic,True,BCN3J8,http://placeimg.com/640/480/any,192,81,195,5.9,9.9,3.9,2026-02-22,3.7,193
+17,Raldo,Harber Inc,tablet,50mg,100 pcs,Harber Inc,166.40,antidepressant,False,NXV1U5,http://placeimg.com/640/480/any,354,134,453,6.3,14.9,3.6,2025-09-15,4.4,141
+18,Govto,Greenholt LLC,drop,5mg,20 pcs,Greenholt LLC,114.00,antihypertensive,True,IPQ9X2,http://placeimg.com/640/480/any,358,93,101,11.4,13.0,4.9,2025-06-06,4.9,8
+19,Hafra,Pollich LLC,cream,20mg,30 pcs,Pollich LLC,16.62,analgesic,True,UOP7M6,http://placeimg.com/640/480/any,371,141,320,7.0,9.6,1.6,2026-03-16,3.3,49
+20,Vuwqa,Rowe-Kulas,capsule,5mg,60 pcs,Rowe-Kulas,139.92,antibiotic,False,EFM2N8,http://placeimg.com/640/480/any,279,127,341,12.2,11.8,2.1,2025-12-07,4.8,325
+21,Fylaz,Smith-Amar,tablet,20mg,100 pcs,Smith-Amar,88.56,analgesic,True,MLD4H7,http://placeimg.com/640/480/any,312,120,389,9.5,10.2,2.8,2026-03-29,4.1,210
+22,Buqvo,Ortiz LLC,capsule,50mg,30 pcs,Ortiz LLC,45.22,antibiotic,False,ZTJ2R5,http://placeimg.com/640/480/any,178,95,422,11.9,7.6,3.4,2025-11-19,3.9,145
+23,Remyq,White and Sons,cream,5mg,20 pcs,White and Sons,155.14,antidepressant,True,UXG8K1,http://placeimg.com/640/480/any,94,171,257,7.7,12.4,1.7,2026-02-20,4.7,312
+24,Hukid,King Group,syrup,100mg,60 pcs,King Group,61.30,antidiabetic,False,ONP3J6,http://placeimg.com/640/480/any,409,87,175,13.4,13.7,2.3,2025-09-29,4.0,198
+25,Quvbi,Vandervort LLC,drop,20mg,10 pcs,Vandervort LLC,121.11,antihypertensive,True,PCB1M4,http://placeimg.com/640/480/any,357,105,212,14.6,8.3,4.5,2025-07-12,3.6,87
+26,Dajta,Harber Inc,tablet,10mg,20 pcs,Harber Inc,76.44,analgesic,True,LZN6V9,http://placeimg.com/640/480/any,406,161,376,10.7,14.2,4.0,2026-05-07,4.3,299
+27,Ogpum,Ruecker Group,capsule,100mg,30 pcs,Ruecker Group,132.50,antibiotic,False,ERK9J3,http://placeimg.com/640/480/any,366,97,214,6.8,12.8,3.0,2026-06-22,3.5,164
+28,Binjc,Muller LLC,cream,50mg,60 pcs,Muller LLC,59.14,antidepressant,True,NFX5L2,http://placeimg.com/640/480/any,120,132,478,12.0,9.0,2.9,2026-01-20,4.8,405
+29,Neqbu,Zulauf,drop,5mg,20 pcs,Zulauf,187.36,antidiabetic,False,AKJ2C8,http://placeimg.com/640/480/any,88,142,499,8.3,11.5,1.4,2025-12-17,4.2,230
+30,Vewko,Wisozk LLC,inhaler,10mg,10 pcs,Wisozk LLC,111.78,antihypertensive,True,PLK6T7,http://placeimg.com/640/480/any,259,154,344,14.2,13.9,3.1,2026-08-30,3.7,176
+31,Suqja,Kutch and Sons,tablet,5mg,100 pcs,Kutch and Sons,104.67,analgesic,True,ZTR3F5,http://placeimg.com/640/480/any,331,87,187,10.4,7.7,4.3,2025-10-05,4.4,320
+32,Wyjoz,Kutch LLC,capsule,20mg,30 pcs,Kutch LLC,96.99,antibiotic,False,HYK9M3,http://placeimg.com/640/480/any,199,190,289,13.3,12.6,1.9,2026-04-27,3.9,218
+33,Ruxlo,Streich-Lynch,syrup,50mg,30 pcs,Streich-Lynch,174.22,antidepressant,True,QWP7D4,http://placeimg.com/640/480/any,274,181,292,9.8,8.8,3.2,2026-07-11,4.5,439
+34,Baxqu,Zemlak,capsule,100mg,60 pcs,Zemlak,130.55,antidiabetic,False,ILD4R6,http://placeimg.com/640/480/any,247,158,303,5.5,14.5,2.7,2025-08-01,3.8,152
+35,Gepvi,Mark Group,cream,20mg,20 pcs,Mark Group,78.13,antihypertensive,True,ORH1X2,http://placeimg.com/640/480/any,318,140,271,12.7,13.1,4.4,2025-11-22,4.1,75
+36,Fiwra,Hettinger,capsule,5mg,100 pcs,Hettinger,168.04,analgesic,False,ZQA3B9,http://placeimg.com/640/480/any,144,164,347,8.6,11.2,1.2,2026-02-14,4.9,389
+37,Napdu,Ondricka PLC,tablet,50mg,30 pcs,Ondricka PLC,23.47,antibiotic,True,MDP5E1,http://placeimg.com/640/480/any,379,169,112,6.8,7.4,2.5,2025-09-03,3.6,265
+38,Zopup,Kreiger LLC,drop,20mg,60 pcs,Kreiger LLC,157.21,antidepressant,True,UTJ6F8,http://placeimg.com/640/480/any,295,133,136,14.0,9.3,4.0,2026-05-18,4.7,478
+39,Huqun,Pfeffer and Sons,syrup,100mg,20 pcs,Pfeffer and Sons,114.35,antidiabetic,False,WYK2L5,http://placeimg.com/640/480/any,342,75,214,11.1,13.2,3.7,2026-03-02,4.0,199
+40,Wevja,Champlin LLC,cream,10mg,30 pcs,Champlin LLC,147.02,antihypertensive,True,SLQ9N4,http://placeimg.com/640/480/any,311,156,189,7.3,10.9,2.6,2025-10-28,3.9,213
+41,Xifja,Christiansen LLC,tablet,5mg,20 pcs,Christiansen LLC,122.49,analgesic,False,GRV3D9,http://placeimg.com/640/480/any,198,117,302,13.8,8.4,3.9,2026-06-06,4.2,187
+42,Yikwu,Collier PLC,capsule,50mg,60 pcs,Collier PLC,64.88,antibiotic,True,VQD8T7,http://placeimg.com/640/480/any,360,90,494,6.1,11.7,4.8,2026-07-07,4.4,356
+43,Qyfin,Rosenbaum,drop,5mg,30 pcs,Rosenbaum,59.17,antidepressant,False,NBP7C3,http://placeimg.com/640/480/any,276,150,242,9.2,12.5,1.5,2025-09-20,3.7,133
+44,Bajre,Vandervort and Sons,syrup,20mg,100 pcs,Vandervort and Sons,150.69,antidiabetic,True,IDF4M6,http://placeimg.com/640/480/any,341,114,176,12.5,14.8,2.2,2026-02-28,4.8,401
+45,Veqli,Fadel Inc,cream,100mg,20 pcs,Fadel Inc,190.55,antihypertensive,False,PUK1X8,http://placeimg.com/640/480/any,257,178,244,11.6,7.0,3.3,2025-08-15,4.6,276
+46,Hojwi,Ritchie Group,inhaler,10mg,10 pcs,Ritchie Group,52.44,analgesic,True,QLC3J2,http://placeimg.com/640/480/any,397,131,281,8.7,9.9,2.0,2026-01-11,3.8,198
+47,Loqda,McClure,capsule,20mg,60 pcs,McClure,169.01,antibiotic,False,TFN6R5,http://placeimg.com/640/480/any,186,164,266,10.2,14.4,3.4,2026-04-05,4.5,361
+48,Zirca,Steuber Inc,tablet,50mg,30 pcs,Steuber Inc,34.67,antidepressant,True,ACH9K3,http://placeimg.com/640/480/any,274,110,434,9.1,12.9,1.8,2025-11-01,4.0,142
+49,Puvci,Hayes Inc,capsule,100mg,30 pcs,Hayes Inc,189.30,antidiotic,False,ZJE2L4,http://placeimg.com/640/480/any,43,176,446,8.9,13.4,3.2,2025-07-02,4.1,354
+50,Qytri,Blanda LLC,syrup,5mg,30 pcs,Blanda LLC,162.88,antihypertensive,True,RJG2T1,http://placeimg.com/640/480/any,202,101,312,11.2,8.7,4.6,2026-06-18,4.3,289
+51,Ewfja,Cremin LLC,cream,20mg,20 pcs,Cremin LLC,96.18,analgesic,False,LOQ5N9,http://placeimg.com/640/480/any,305,121,217,5.7,11.6,2.5,2025-09-08,3.9,220
+52,Ubsha,Rau Group,tablet,100mg,60 pcs,Rau Group,182.47,antibiotic,True,SKM8X2,http://placeimg.com/640/480/any,167,183,183,9.9,14.1,3.7,2026-01-27,4.7,410
+53,Ruvtj,Willms Inc,capsule,50mg,30 pcs,Willms Inc,76.55,antidepressant,False,HDQ1F4,http://placeimg.com/640/480/any,281,129,395,12.6,10.5,1.9,2026-03-05,4.4,331
+54,Pixmo,Steuber PLC,drop,10mg,100 pcs,Steuber PLC,124.69,antidiabetic,True,ZXM6V8,http://placeimg.com/640/480/any,214,115,234,7.4,13.8,2.1,2025-12-01,3.6,259
+55,Bujli,Klocko Inc,syrup,20mg,50 pcs,Klocko Inc,118.33,antihypertensive,False,PKJ5L7,http://placeimg.com/640/480/any,323,168,281,8.8,12.3,4.2,2025-08-29,4.8,379
+56,Qevzi,Davis Group,tablet,5mg,30 pcs,Davis Group,69.12,analgesic,True,LMN2C5,http://placeimg.com/640/480/any,195,81,457,10.9,9.4,3.6,2026-07-23,4.2,183
+57,Zigpa,Runolfsdottir LLC,capsule,100mg,60 pcs,Runolfsdottir LLC,142.74,antibiotic,False,ANP9J2,http://placeimg.com/640/480/any,361,153,162,6.5,11.1,2.5,2026-04-19,3.8,199
+58,Mojfa,Kris LLC,inhaler,10mg,10 pcs,Kris LLC,133.55,antidepressant,True,WOR3D6,http://placeimg.com/640/480/any,278,142,299,12.8,13.6,4.1,2025-10-15,4.6,267
+59,Locpu,Rau LLC,drop,5mg,20 pcs,Rau LLC,105.22,antidiabetic,False,PKL7V9,http://placeimg.com/640/480/any,213,89,367,9.3,12.0,1.6,2026-02-05,4.0,154
+60,Giryo,Braun LLC,cream,20mg,30 pcs,Braun LLC,58.91,antihypertensive,True,HDX4T3,http://placeimg.com/640/480/any,244,137,418,8.1,10.8,2.2,2026-05-12,4.7,312
+61,Pozke,Nitzsche Inc,tablet,50mg,100 pcs,Nitzsche Inc,173.44,analgesic,False,RTY1M8,http://placeimg.com/640/480/any,339,166,477,13.5,14.9,3.7,2025-11-30,4.3,298
+62,Fizpo,Dach Inc,capsule,5mg,30 pcs,Dach Inc,108.06,antibiotic,True,KOP2J5,http://placeimg.com/640/480/any,178,127,405,7.2,9.0,1.3,2026-03-22,4.5,344
+63,Nijlu,McDermott PLC,syrup,100mg,20 pcs,McDermott PLC,168.25,antidepressant,False,UIJ7B4,http://placeimg.com/640/480/any,201,172,431,11.9,12.2,3.3,2025-08-11,3.9,167
+64,Vyrai,Weissnat LLC,cream,10mg,60 pcs,Weissnat LLC,92.57,antidiabetic,True,OPL3N6,http://placeimg.com/640/480/any,262,113,493,10.3,14.8,2.9,2026-07-27,4.1,216
+65,Xukwa,Hahn LLC,tablet,20mg,20 pcs,Hahn LLC,184.70,antihypertensive,False,ZTR8F1,http://placeimg.com/640/480/any,307,180,325,6.0,11.4,3.5,2025-09-01,4.8,382
+66,Baqtm,Gorczany,drop,20mg,50 pcs,Gorczany,130.32,analgesic,True,MLN5C7,http://placeimg.com/640/480/any,162,142,223,12.4,8.9,4.9,2026-02-09,4.0,291
+67,Cixpo,Wunsch Group,capsule,100mg,30 pcs,Wunsch Group,138.96,antibiotic,False,PDQ9T2,http://placeimg.com/640/480/any,380,139,345,11.7,13.3,2.8,2026-04-01,3.7,199
+68,Kunje,Stroman LLC,syrup,5mg,100 pcs,Stroman LLC,111.02,antidepressant,True,ZXN6M4,http://placeimg.com/640/480/any,291,185,273,9.0,10.1,3.0,2025-10-20,4.6,359
+69,Adznu,Pouros LLC,tablet,50mg,30 pcs,Pouros LLC,170.85,antidiabetic,False,UBC1P5,http://placeimg.com/640/480/any,215,98,347,14.4,9.2,1.7,2025-12-25,4.2,224
+70,Eqnua,Bailey PLC,cream,100mg,20 pcs,Bailey PLC,65.17,antihypertensive,True,LMO4R7,http://placeimg.com/640/480/any,196,147,157,12.9,12.6,4.0,2026-06-14,3.9,182
+71,Urpbi,Hill Inc,capsule,20mg,60 pcs,Hill Inc,150.24,analgesic,False,RND5T8,http://placeimg.com/640/480/any,228,155,459,7.5,11.8,2.3,2026-03-30,4.4,269
+72,Oqvra,Douglas LLC,drop,5mg,20 pcs,Douglas LLC,97.35,antibiotic,True,KED3N1,http://placeimg.com/640/480/any,359,120,358,8.2,13.5,1.4,2025-11-06,4.7,318
+73,Ibzpu,Keeling PLC,inhaler,10mg,10 pcs,Keeling PLC,145.77,antidepressant,False,FGH9K2,http://placeimg.com/640/480/any,304,183,198,6.9,9.1,3.6,2025-09-25,4.1,244
+74,Exnra,Glover LLC,tablet,5mg,100 pcs,Glover LLC,132.11,antidiabetic,True,TYU2M3,http://placeimg.com/640/480/any,382,162,482,14.1,14.0,2.5,2026-04-15,3.8,303
+75,Yipva,Little Inc,syrup,20mg,30 pcs,Little Inc,157.64,antihypertensive,False,QAZ3X5,http://placeimg.com/640/480/any,332,182,304,8.4,12.7,3.7,2025-10-12,4.5,198
+76,Jobpu,Fahey LLC,cream,50mg,60 pcs,Fahey LLC,189.90,analgesic,True,WSX5C6,http://placeimg.com/640/480/any,179,167,302,13.6,10.0,2.9,2026-07-08,4.9,426
+77,Vuhze,Ziemann LLC,capsule,100mg,20 pcs,Ziemann LLC,74.53,antibiotic,False,EDC2V7,http://placeimg.com/640/480/any,243,108,178,10.8,13.9,4.1,2026-05-21,4.2,211
+78,Mujzi,Rau LLC,tablet,10mg,30 pcs,Rau LLC,58.11,antidepressant,True,XSW9B4,http://placeimg.com/640/480/any,266,149,298,9.7,11.5,1.9,2025-12-03,3.7,139
+79,Wyhqe,Cronin LLC,drop,20mg,60 pcs,Cronin LLC,180.22,antidiabetic,False,PLM1N8,http://placeimg.com/640/480/any,383,174,464,11.3,14.6,3.3,2026-02-16,4.6,382
+80,Qixjo,Roberts and Sons,inhaler,5mg,10 pcs,Roberts and Sons,129.05,antihypertensive,True,NMK4T2,http://placeimg.com/640/480/any,198,112,291,12.1,10.3,2.4,2025-09-29,4.0,225
